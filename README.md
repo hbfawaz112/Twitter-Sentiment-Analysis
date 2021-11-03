@@ -7,7 +7,7 @@
 ### You need first to have a twitter developer account , then get the 4 required keys.<br> (consumer_key / consumer_secret/ access_token / access_token_secret)
 # Outputs
 <b>
-1- Dataframe caontain some extracted tweets. <br>
+1- Dataframe contain some extracted tweets. <br>
 2- Bar chart to see how the sentiments are classify. <br>
 3- Pie chart to see how the sentiments are classify. <br>
 4- Bar chart to see how the sentiments are classify by verfied users and not verified users. <br>
