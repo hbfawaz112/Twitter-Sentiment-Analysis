@@ -5,8 +5,8 @@
 ### We will do sentiment Analysis on the extracted tweets and classify them into Positive, Negative, Neutral based on a specified topic. 
 ### Further, we will provide visualizations so the Data can be further analyzed by the user.
 ### You need first to have a twitter developer account , then get the 4 required keys.<br> (consumer_key / consumer_secret/ access_token / access_token_secret)
-### You can check the process to get these key in this link : https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api
-and put them here : 
+### You can check the process to get these keys in this link : https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api
+And put them here : 
 ```python
 consumer_key = "your key"
 consumer_secret = "your key"
